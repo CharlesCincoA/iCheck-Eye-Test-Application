@@ -1,4 +1,4 @@
-# iCheck
+![image](https://github.com/CharlesCincoA/iCheck-Eye-Test-Application/assets/140971231/a75586f2-d2e6-4ba7-b01e-a9311fdffabc)# iCheck
 ![image](https://github.com/CharlesCincoA/iCheck-Eye-Test-Application/assets/140971231/80ac0219-656f-42c9-b003-41dd708262c8)
 
 ### Login and Register
@@ -20,8 +20,10 @@
 ### Result Page
 ![image](https://github.com/CharlesCincoA/iCheck-Eye-Test-Application/assets/140971231/5d197e4e-dfc1-4528-8763-96b92c2f8a0e)
 
-## Advicer:
+## Advicer and Collaborator:
 * Jefferson A. Costales
+
+Email: jeffcostales@gmail.com
   
 ## School:
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
