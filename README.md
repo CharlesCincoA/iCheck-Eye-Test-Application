@@ -1,4 +1,4 @@
-#iCheck
+# iCheck
 ![image](https://github.com/CharlesCincoA/iCheck-Eye-Test-Application/assets/140971231/80ac0219-656f-42c9-b003-41dd708262c8)
 
 ### Login and Register
